@@ -1,0 +1,33 @@
+Organizations IT departments like the banks have to maintain the list of requirements of each project.
+The nature of the IT development projects (Eg: US Banks) might be new or change requests that changes features on the existing software system. While they maintain a template for creting these documents, its imperative that we have to create a schema for these documents for the sake of data curation purposes. 
+
+1. BRS Documents are created by the business analyst for each project. There can be multiple versions created for the same project and maintained in a centralized repository like SharePoint or Confluence. 
+2. Frequency of these documents created depends on the number of approved projects for the release of the year.
+3. Multiple projects are run parallely and are handled by separate Project Manager's and their project teams.
+4. BRS Documents are 
+
+
+Business Requirements Specification
+Document Classification: Confidential, Internal
+Domain: Consumer Banking, Business Banking, Investment Banking, Corporate Banking, Capital Loans, etc.
+LOB: Retail, Wealth, Corporate
+Product(s): Checking Accounts, Savings Accounts, Credit Cards, Debit Cards
+Project Manager: Mark Schumat
+Project ID: PR238914
+Billing ID: BI485139
+Status: Approved, Pending
+BRS Title: Broadview Integration with Customer Information File
+BRS Version: 1.05
+Publication Date: 10/14/2022
+Author(s): Vicky Mandlein, Victor Ananth, Ram Karuna
+Table of Contents:
+1. Introduction:
+1.1 Purpose:
+1.2 Project Summary:
+1.3 Background:
+1.4 Project Scope:
+
+
+Document Classification
+Req ID
+Requirement Title
